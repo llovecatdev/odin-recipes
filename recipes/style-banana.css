@@ -1,0 +1,45 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: white;
+    text-align: center;
+}
+
+.home{
+    color: rgb(0, 0, 187);
+    width: 60px;
+    margin: 15px auto;
+    background:aquamarine;
+    padding: 3px;
+    border: 2px solid blue;
+}
+
+.every{
+    border: 2px solid blue;
+    margin-top: 10px;
+}
+
+.ing{
+    border: 2px solid blue;
+    margin: 10px;
+}
+
+.ingh3{
+    color: rgb(0, 0, 187);
+    width: 200px;
+    background-color: aquamarine;
+    margin: auto;
+
+}
+
+.inges{
+    background: aquamarine;
+    width: 400px;
+    margin: auto;
+    margin-bottom: 25px;
+    padding: 2px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}

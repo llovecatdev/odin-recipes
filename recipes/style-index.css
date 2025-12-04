@@ -1,0 +1,39 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: white;
+}
+
+.odin {
+    color: rgb(0, 0, 187);
+    width: 350px;
+    background: rgb(255, 255, 255);
+    border: 2px solid blue;
+    margin: 16px auto;
+    padding: 3px;
+}
+
+.title {
+    width: 230px;
+    background: aquamarine;
+    padding: 0px;
+    margin: 10px auto;
+    text-align:center;
+}
+
+li{
+    color: blue;
+    width: 255px;
+    background: aquamarine;
+    padding: 5px;
+    margin: 5px auto;
+    text-align: center;
+    display: block;
+}
+
+ul{
+    padding: 0px;
+    margin-bottom: 30px;
+}
+
+
+
